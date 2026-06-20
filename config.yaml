@@ -1,0 +1,6 @@
+manager_file: "C:/path/to/macro_manager.xlsx"
+
+mail:
+  to: "your-email@example.com"
+  cc: ""
+  subject: "【自動送信】Excelレポート実行完了"
